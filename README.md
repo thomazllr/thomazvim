@@ -1,4 +1,13 @@
-# 💤 LazyVim
+# 💤 ThomazVim
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+## Coisas que eu quero adicionar
+
+- [ ] Snippet para criação de Makefile
+
+
+
+## Look at:
+
+![alt text](image.png)
+
+![alt text](image-1.png)
